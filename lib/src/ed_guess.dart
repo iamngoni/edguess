@@ -1,0 +1,3 @@
+class EdGuess {
+  const EdGuess();
+}
